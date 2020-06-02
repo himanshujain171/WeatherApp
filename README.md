@@ -1,4 +1,4 @@
-# WeatherApp ![](screenshots/app.png) 
+# WeatherApp
 
 ### Android Weather App Using Kotlin
 
