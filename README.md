@@ -7,4 +7,4 @@
 ![](screenshots/chicago.jpg)
 ![](screenshots/new_york.jpg)
 
-> **The weather information is obtained using [OpenWeatherAPI](https://openweathermap.org/) API**
+> **The weather information is obtained using [OpenWeatherAPI](https://openweathermap.org/)**
